@@ -1,0 +1,8 @@
+GameProject {
+ ID "KholKHol"
+ GUID "659623C5FC46E01C"
+ TITLE "Khol KHol"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
