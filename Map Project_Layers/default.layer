@@ -3299,6 +3299,169 @@ PolylineShapeEntity {
   }
  }
 }
+SplineShapeEntity {
+ coords 298.663 154.464 2444.337
+ Points {
+  ShapePoint "{65971076ED5D5D01}" {
+   Position 0 0 0
+  }
+  ShapePoint "{65971076ED5D4F8A}" {
+   Position 33.931 -3.065 -38.403
+  }
+  ShapePoint "{65971076C9CED07C}" {
+   Position 54.996 -6.731 -53.994
+  }
+  ShapePoint "{65971076A3449D82}" {
+   Position 116.306 -12.334 -125.757
+  }
+  ShapePoint "{6597107663F01EA6}" {
+   Position 151.654 -17.797 -166.62
+  }
+  ShapePoint "{659710762459BD8C}" {
+   Position 178.713 -19.416 -194.853
+  }
+  ShapePoint "{6597107628093738}" {
+   Position 359.112 -35.906 -398.576
+  }
+  ShapePoint "{65971077B3F0FC5A}" {
+   Position 435.92 -37.797 -451.34
+  }
+  ShapePoint "{65971077A172D327}" {
+   Position 492.255 -37.26 -434.393
+  }
+  ShapePoint "{659710777145C6D9}" {
+   Position 517.025 -37.835 -427.633
+  }
+  ShapePoint "{659710776BA52A0D}" {
+   Position 601.102 -46.179 -423.436
+  }
+  ShapePoint "{659710619A241FD9}" {
+   Position 720.524 -57.222 -424.931
+  }
+  ShapePoint "{659710615DB53B06}" {
+   Position 869.305 -61.433 -404.951
+  }
+  ShapePoint "{6597106148D23162}" {
+   Position 944.273 -48.436 -437.246
+  }
+  ShapePoint "{6597106112057FA9}" {
+   Position 921.575 -44.895 -377.503
+  }
+  ShapePoint "{6597106F9E7A698B}" {
+   Position 842.843 -36.279 -266.657
+  }
+  ShapePoint "{6597106F80507FFA}" {
+   Position 824.787 -35.94 -224.978
+  }
+  ShapePoint "{6597106F8A4BE8E3}" {
+   Position 877.727 -24.731 -183.672
+  }
+  ShapePoint "{6597106F69643EBA}" {
+   Position 1004.025 -23.695 -136.624
+  }
+  ShapePoint "{6597106F33C317A4}" {
+   Position 1167.085 -20.506 -84.121
+  }
+  ShapePoint "{6597106F3AD50A70}" {
+   Position 1196.046 -19.888 -78.228
+  }
+  ShapePoint "{6597106F232C5B3C}" {
+   Position 1255.548 -15.752 -78.768
+  }
+  ShapePoint "{6597106CA87413A7}" {
+   Position 1668.077 -8.455 -107.394
+  }
+  ShapePoint "{6597106C91AA6E09}" {
+   Position 2212.872 0.174 -145.847
+  }
+ }
+ {
+  RoadGeneratorEntity : "{8B67F44381CD2216}PrefabLibrary/Generators/Roads/Asphalt/RG_Road_Asphalt_E_03.et" {
+   coords 0 0 0
+   {
+    RoadEntity {
+     ID "556C655534397360"
+     SplinePoints {
+      ShapePoint "{556C6556BF2A9CBB}" {
+       Position 0 0 0
+      }
+      ShapePoint "{556C6556BF2A9DE7}" {
+       Position 33.931 -3.065 -38.403
+      }
+      ShapePoint "{659710765FDF91F2}" {
+       Position 54.996 -6.731 -53.994
+      }
+      ShapePoint "{659710765FDF91B7}" {
+       Position 116.306 -12.334 -125.757
+      }
+      ShapePoint "{659710765FDF906C}" {
+       Position 151.654 -17.797 -166.62
+      }
+      ShapePoint "{659710762459DC90}" {
+       Position 178.713 -19.416 -194.853
+      }
+      ShapePoint "{6597107628095D9C}" {
+       Position 359.112 -35.906 -398.576
+      }
+      ShapePoint "{65971077B3F13AF6}" {
+       Position 435.92 -37.797 -451.34
+      }
+      ShapePoint "{65971077A1731044}" {
+       Position 492.255 -37.26 -434.393
+      }
+      ShapePoint "{65971077717A00B8}" {
+       Position 517.025 -37.835 -427.633
+      }
+      ShapePoint "{659710776BA57B5E}" {
+       Position 601.102 -46.179 -423.436
+      }
+      ShapePoint "{659710619A246338}" {
+       Position 720.524 -57.222 -424.931
+      }
+      ShapePoint "{659710615DB58FA9}" {
+       Position 869.305 -61.433 -404.951
+      }
+      ShapePoint "{6597106148D27CE0}" {
+       Position 944.273 -48.436 -437.246
+      }
+      ShapePoint "{659710611205C1D0}" {
+       Position 921.575 -44.895 -377.503
+      }
+      ShapePoint "{6597106F9E7ACFAD}" {
+       Position 842.843 -36.279 -266.657
+      }
+      ShapePoint "{6597106F8050D1EA}" {
+       Position 824.787 -35.94 -224.978
+      }
+      ShapePoint "{6597106F8A484558}" {
+       Position 877.727 -24.731 -183.672
+      }
+      ShapePoint "{6597106F69649459}" {
+       Position 1004.025 -23.695 -136.624
+      }
+      ShapePoint "{6597106F33C38439}" {
+       Position 1167.085 -20.506 -84.121
+      }
+      ShapePoint "{6597106F3AD56EA6}" {
+       Position 1196.046 -19.888 -78.228
+      }
+      ShapePoint "{6597106F232CBAC4}" {
+       Position 1255.548 -15.752 -78.768
+      }
+      ShapePoint "{6597106CA874715B}" {
+       Position 1668.077 -8.455 -107.394
+      }
+      ShapePoint "{6597106C91AAE7E5}" {
+       Position 2212.872 0.174 -145.847
+      }
+     }
+     IsClosedSpline 0
+     Width 8
+    }
+   }
+  }
+ }
+}
 SCR_DestructibleBuildingEntity : "{07452F959762A7C0}Prefabs/Structures/Agriculture/CowShed/CowShed_E_01/CowShed_E_01_short_Base.et" {
  coords 2387.373 1.495 2207.177
 }
